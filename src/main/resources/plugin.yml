@@ -1,0 +1,6 @@
+name: VaroDE
+api: 1.0.12
+main: de.mariocst.varode.VaroDE
+version: 1.0
+authors: [ "marioCST" ]
+description: VaroDE Plugin
